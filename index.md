@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## mallabee Toolchain
 
-You can use the [editor on GitHub](https://github.com/dinbrca/dinbrca.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Logo](mallabee-logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is it?
 
-### Markdown
+mallabee Toolchain is a collective API.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We create a set of technological advanced, super simple web tools.
 
-```markdown
-Syntax highlighted code block
+The tools sit on top of Amazon infrastructure (AWS) to allow scalability as we grow our toolset.
 
-# Header 1
-## Header 2
-### Header 3
+We strive to make the APIs for the public use - we do that by allowing others to easily interact and automate (e.g.: using [**Zapier**](https://www.getpostman.com/)).
 
-- Bulleted
-- List
+### Toolset
 
-1. Numbered
-2. List
+The current toolset contains only:
 
-**Bold** and _Italic_ and `Code` text
+- Image Resizing
 
-[Link](url) and ![Image](src)
-```
+But the future holds a lot of feature possibilities
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Image Compression
+- Website Thumbnail Generation
+- File Antivirus Scanning
+- File Upload
 
-### Jekyll Themes
+and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dinbrca/dinbrca.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Image Resizing
 
-### Support or Contact
+Check our [**Zapier**](https://www.getpostman.com/) integration in here to see how you can automate.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### API
+
+The API is super simple.
+
+All you need in order to start using it is having an API key.
+
+Currently, you can just use a random generated UUID version 4 as API key because the API is free.
+
+You can generate a UUID version 4 API key in [here](https://www.uuidgenerator.net/) (just use the random generated key on the top as your API key, e.g. `ebb6c59f-c00e-4ec3-9cce-41c5eb11d2ba`).
+
+## Postman
+<a name="using-postman"> </a>
+
+Postman is an amazing application. It's a tool that allows developers to make HTTP requests extremely easy, save examples, work under different environments, we LOVE it!
+
+Postman is downloadable for free use from [here](https://www.getpostman.com/) and supported with lots of developer docs [here](https://www.getpostman.com/docs/).
+
+We are providing you the full collection of this API for your usage with Postman, this collection includes examples of different requests & responses, the endpoints, documentation to immensely ease your interaction with our API.
+
+After downloading Postman click on the following button to download our collection:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/024261330e9ef06d3789)
+
+You can also view the documentation online in [here](https://documenter.getpostman.com/view/2329721/T1DmCdd4?version=latest)
+
+### Generate code using Postman
+
+Postman allows for easy code generation to use with your favorite language.
+
+After downloading and using our Postman collection follow the GIF below to generate the code for your used language:
+
+![Generate Code-POSTMAN](https://cdn.greeninvoice.co.il/files/ugc/8/c/7/8c7ea6c7af9046e2987ec70ab6e54dcd.gif)
+
+## Support or Contact
+
+Want to request a future feature? Have problems with Zapier integrations? something else?
+
+Contact us at [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
