@@ -70,4 +70,4 @@ After downloading and using our Postman collection follow the GIF below to gener
 
 Want to request a future feature? Have problems with Zapier integrations? something else?
 
-Contact us at [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us at [contact support](https://www.tidio.com/talk/ozbdrimnhdmec3oucu580m1ut2acp6i1) and we’ll help you sort it out.
