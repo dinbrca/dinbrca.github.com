@@ -1,6 +1,6 @@
-## mallabee Toolchain
-
 ![Logo](mallabee-logo.png)
+
+## mallabee Toolchain
 
 ### What is it?
 
@@ -8,9 +8,9 @@ mallabee Toolchain is a collective API.
 
 We create a set of technological advanced, super simple web tools.
 
-The tools sit on top of Amazon infrastructure (AWS) to allow scalability as we grow our toolset.
-
 We strive to make the APIs for the public use - we do that by allowing others to easily interact and automate (e.g.: using [**Zapier**](https://www.getpostman.com/)).
+
+The tools sit on top of Amazon infrastructure (AWS) to allow scalability as we grow our toolset.
 
 ### Toolset
 
@@ -18,7 +18,7 @@ The current toolset contains only:
 
 - Image Resizing
 
-But the future holds a lot of feature possibilities
+But the future holds a lot of feature possibilities:
 
 - Image Compression
 - Website Thumbnail Generation
@@ -68,4 +68,4 @@ After downloading and using our Postman collection follow the GIF below to gener
 
 Want to request a future feature? Have problems with Zapier integrations? something else?
 
-Contact us at [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us at [contact support](https://github.com/contact) and we’ll help you sort it out.
