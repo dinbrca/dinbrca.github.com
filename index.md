@@ -81,6 +81,19 @@ The idea is to open an SDK for programmers and let anyone create a tool based on
 
 The API objects are supposed to be "short-lived" objects, that usually doesn't require a database, only a function of a "do" action.
 
+Having a core & core values will potentially allow programmers that use the SDK to create a new tool within a couple of days (even a day) and not weeks.
+
+#### What Does the Core Gives a Programmer
+
+- Logging & Exception Handling
+- Background Work Handling (such as webhooks)
+- API Key Based Authentication
+- AWS Resource Integrations - DynamoDB, S3
+- Operations Database (to understand the request & response of operations based on API Key)
+- Utilities (such as Image Utilities)
+- Hassle-free Zapier Integration
+- Testing Framework
+
 #### Some Future Ideas for Tools
 
 - Images
