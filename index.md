@@ -20,7 +20,8 @@ The tools are grouped - each resource / object type has it's functionallities / 
 
 The current toolset contains only:
 
-- Image Resizing
+- Images
+  - Image Resizing
 
 But the future holds a lot of feature possibilities:
 
