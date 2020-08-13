@@ -23,41 +23,7 @@ The current toolset contains only:
 - Images
   - Image Resizing
 
-But the future holds a lot of feature possibilities:
-
-- Images
-  - Image Compression
-  - Image Conversion
-- Websites
-  - Website Thumbnail Generation
-  - Is Down For Me? (Popular)
-  - Make Proxied Request
-- URLs
-  - Shorten URL (Popular)
-- Files
-  - File Antivirus Scanning
-  - File Upload
-  - Zip Files
-- Texts
-  - Text Difference
-- IPs
-  - IP to Location
-- Proxies
-  - Get Proxy
-- Currencies
-  - Get Currency Conversion Rate (Popular)
-- Countries
-  - Get Cities
-- SMSs?
-  - Send SMS
-- Emails?
-  - Send Transactional Email
-- Validations
-  - Validate Multiple
-  - Validate URL
-  - Validate Phone Number
-
-and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature)
+and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature), Check out what the future holds [`here`](#future)..
 
 #### Image Resizing
 
@@ -105,6 +71,56 @@ Postman allows for easy code generation to use with your favorite language.
 After downloading and using our Postman collection follow the GIF below to generate the code for your used language:
 
 ![Generate Code-POSTMAN](https://cdn.greeninvoice.co.il/files/ugc/8/c/7/8c7ea6c7af9046e2987ec70ab6e54dcd.gif)
+
+
+### <a name="future">Toolset Future</a>
+
+#### General Idea
+
+The idea is to open an SDK for programmers and let anyone create a tool based on pre-defined core & core values, performance & scalability.
+
+The API objects are supposed to be "short-lived" objects, that usually doesn't require a database, only a function of a "do" action.
+
+#### Some Future Ideas for Tools
+
+- Images
+  - Get Image Info (File Type, Width, Height, Size, etc..)
+  - Image Compression
+  - Image Conversion
+  - Analyze Colors
+- Websites
+  - Website Thumbnail Generation
+  - Is Down For Me? (Popular)
+  - Make Proxied Request
+- URLs
+  - Shorten URL (Popular)
+- Files
+  - File Antivirus Scanning
+  - File Upload
+  - Zip Files
+- Documents
+  - Convert Document (PDF to Doc, etc..)
+  - Take Image
+- Texts
+  - Text Difference
+- IPs
+  - IP to Location
+- Proxies
+  - Get Proxy
+- Currencies
+  - Get Currency Conversion Rate (Popular)
+- Countries
+  - Get Cities
+- UserAgent
+  - Parse UserAgent
+- SMSs?
+  - Send SMS
+- Emails?
+  - Send Transactional Email
+- Validations
+  - Validate Multiple
+  - Validate URL
+  - Validate Phone Number
 
 ## Support or Contact
 
