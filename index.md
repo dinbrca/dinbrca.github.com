@@ -31,6 +31,7 @@ But the future holds a lot of feature possibilities:
 - Websites
   - Website Thumbnail Generation
   - Is Down For Me?
+  - Make Proxied Request
 - URLs
   - Shorten URL
 - Files
@@ -41,6 +42,8 @@ But the future holds a lot of feature possibilities:
   - Text Difference
 - IPs
   - IP to Location
+- Proxies
+  - Get Proxy
 - Validations
   - Validate
 
