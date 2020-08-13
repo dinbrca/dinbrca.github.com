@@ -30,10 +30,10 @@ But the future holds a lot of feature possibilities:
   - Image Conversion
 - Websites
   - Website Thumbnail Generation
-  - Is Down For Me?
+  - Is Down For Me? (Popular)
   - Make Proxied Request
 - URLs
-  - Shorten URL
+  - Shorten URL (Popular)
 - Files
   - File Antivirus Scanning
   - File Upload
@@ -44,8 +44,18 @@ But the future holds a lot of feature possibilities:
   - IP to Location
 - Proxies
   - Get Proxy
+- Currencies
+  - Get Currency Conversion Rate (Popular)
+- Countries
+  - Get Cities
+- SMSs?
+  - Send SMS
+- Emails?
+  - Send Transactional Email
 - Validations
-  - Validate
+  - Validate Multiple
+  - Validate URL
+  - Validate Phone Number
 
 and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature)
 
