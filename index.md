@@ -10,11 +10,11 @@ mallabee Toolchain is a collective API of resource type based tools.
 
 We create a set of technological advanced, super simple web tools.
 
-We strive to make the APIs for the public use - we do that by allowing others to easily interact and automate (e.g.: using [**Zapier**](https://www.getpostman.com/)).
+We strive to make the APIs for the public use - we do that by allowing others to easily interact and automate (e.g.: using [**Zapier**](https://zapier.com/developer/public-invite/110808/ab56aed0459357f3c7aaee1149fedcbd/)).
 
 The tools sit on top of Amazon infrastructure (AWS) to allow scalability as we grow our toolset.
 
-The tools are grouped - each resource type has it's functionallities / actions.
+The tools are grouped - each resource / object type has it's functionallities / actions.
 
 ### Toolset
 
@@ -29,20 +29,25 @@ But the future holds a lot of feature possibilities:
   - Image Conversion
 - Websites
   - Website Thumbnail Generation
+  - Is Down For Me?
+- URLs
+  - Shorten URL
 - Files
   - File Antivirus Scanning
   - File Upload
   - Zip Files
-- Text
+- Texts
   - Text Difference
-- IP
+- IPs
   - IP to Location
+- Validations
+  - Validate
 
 and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature)
 
 #### Image Resizing
 
-Check our [**Zapier**](https://www.getpostman.com/) integration in here to see how you can automate.
+Check our [**Zapier**](https://zapier.com/developer/public-invite/110808/ab56aed0459357f3c7aaee1149fedcbd/) integration in here to see how you can automate.
 
 ##### Integration Use Cases
 - Google Drive -> Image Resize -> Google Drive
