@@ -126,6 +126,12 @@ Having a core & core values will potentially allow programmers that use the SDK 
   - Get Cities
 - UserAgent
   - Parse UserAgent
+- Languages
+  - Translate
+  - Synonyms
+  - Talk
+- Maps?
+  - Path Find
 - SMSs?
   - Send SMS
 - Emails?
