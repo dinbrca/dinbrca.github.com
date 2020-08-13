@@ -6,13 +6,15 @@
 
 ### What is it?
 
-mallabee Toolchain is a collective API.
+mallabee Toolchain is a collective API of resource type based tools.
 
 We create a set of technological advanced, super simple web tools.
 
 We strive to make the APIs for the public use - we do that by allowing others to easily interact and automate (e.g.: using [**Zapier**](https://www.getpostman.com/)).
 
 The tools sit on top of Amazon infrastructure (AWS) to allow scalability as we grow our toolset.
+
+The tools are grouped - each resource type has it's functionallities / actions.
 
 ### Toolset
 
@@ -22,10 +24,19 @@ The current toolset contains only:
 
 But the future holds a lot of feature possibilities:
 
-- Image Compression
-- Website Thumbnail Generation
-- File Antivirus Scanning
-- File Upload
+- Images
+  - Image Compression
+  - Image Conversion
+- Websites
+  - Website Thumbnail Generation
+- Files
+  - File Antivirus Scanning
+  - File Upload
+  - Zip Files
+- Text
+  - Text Difference
+- IP
+  - IP to Location
 
 and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature)
 
