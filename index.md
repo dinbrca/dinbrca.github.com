@@ -103,10 +103,10 @@ Having a core & core values will potentially allow programmers that use the SDK 
   - Analyze Colors
 - Websites
   - Website Thumbnail Generation
-  - Is Down For Me? (Popular)
+  - Status (Is Down For Me?) [Popular]
   - Make Proxied Request
 - URLs
-  - Shorten URL (Popular)
+  - Shorten URL [Popular]
 - Files
   - File Antivirus Scanning
   - File Upload
@@ -121,7 +121,7 @@ Having a core & core values will potentially allow programmers that use the SDK 
 - Proxies
   - Get Proxy
 - Currencies
-  - Get Currency Conversion Rate (Popular)
+  - Get Currency Conversion Rate [Popular]
 - Countries
   - Get Cities
 - Phones
@@ -142,6 +142,7 @@ Having a core & core values will potentially allow programmers that use the SDK 
   - Validate Multiple
   - Validate URL
   - Validate Phone Number
+  - Validate User Agent
 
 ## Support or Contact
 
