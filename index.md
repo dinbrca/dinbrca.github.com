@@ -124,6 +124,8 @@ Having a core & core values will potentially allow programmers that use the SDK 
   - Get Currency Conversion Rate (Popular)
 - Countries
   - Get Cities
+- Phones
+  - Parse Phone Number
 - UserAgent
   - Parse UserAgent
 - Languages
