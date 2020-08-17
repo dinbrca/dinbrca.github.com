@@ -1,5 +1,3 @@
-<script src="//code.tidio.co/ozbdrimnhdmec3oucu580m1ut2acp6i1.js" async></script>
-
 ## mallabee Toolchain
 
 ### What is it?
