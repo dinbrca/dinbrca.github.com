@@ -45,6 +45,10 @@
         text-decoration:none;
         text-shadow:0px -1px 0px #ad2fcc;
       }
+      
+      .page-button:not(.first-button) {
+        margin-left: 10px;
+      }
 
       .page-button:hover {
         background:linear-gradient(to bottom, #8d4091 5%, #7f58c2 100%);
@@ -64,11 +68,13 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <img src="../mallabee-logo.png" alt="Logo">
-          
-          <a class="page-button" href="/">HOME</a> |      
-          <a class="page-button" href="/api">API</a> | 
-          <a class="page-button" href="/sdk">SDK</a> | 
+          <img class="logo" src="../mallabee-logo.png" alt="Logo">
+          <br/>
+          <div class="menu">
+            <a class="page-button first-button" href="/">HOME</a>   
+            <a class="page-button" href="/api">API</a>
+            <a class="page-button" href="/sdk">SDK</a>
+          </div>
         </header>
     </div>
     
