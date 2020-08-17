@@ -4,7 +4,7 @@ theme: jekyll-theme-slate
 filename: api.md
 --- 
 
-### API
+# API
 
 The API is super simple.
 
