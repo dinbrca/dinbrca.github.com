@@ -1,3 +1,9 @@
+---
+title: API
+theme: jekyll-theme-slate
+filename: api.md
+--- 
+
 ### API
 
 The API is super simple.
