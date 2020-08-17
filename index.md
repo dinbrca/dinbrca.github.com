@@ -1,6 +1,6 @@
-## mallabee Toolchain
+# mallabee Toolchain
 
-### What is it?
+## What is it?
 
 mallabee Toolchain is a collective API of resource type based tools.
 
@@ -12,7 +12,7 @@ The tools sit on top of Amazon infrastructure (AWS) to allow scalability as we g
 
 The tools are grouped - each resource / object type has it's functionallities / actions.
 
-### Toolset
+## Toolset
 
 The current toolset contains only:
 
@@ -35,69 +35,7 @@ Check our [**Zapier**](https://zapier.com/developer/public-invite/110808/ab56aed
 - Image Resize -> Evernote (Create draft with attachment)
 - Image Resize -> Slack (Send to channel / person)
 
-### API
-
-The API is super simple.
-
-All you need in order to start using it is having an API key.
-
-Currently, you can just use a random generated UUID version 4 as API key because the API is free.
-
-You can generate a UUID version 4 API key in [here](https://www.uuidgenerator.net/) (just use the random generated key on the top as your API key, e.g. `ebb6c59f-c00e-4ec3-9cce-41c5eb11d2ba`).
-
-## Postman
-<a name="using-postman"> </a>
-
-Postman is an amazing application. It's a tool that allows developers to make HTTP requests extremely easy, save examples, work under different environments, we LOVE it!
-
-Postman is downloadable for free use from [here](https://www.getpostman.com/) and supported with lots of developer docs [here](https://www.getpostman.com/docs/).
-
-We are providing you the full collection of this API for your usage with Postman, this collection includes examples of different requests & responses, the endpoints, documentation to immensely ease your interaction with our API.
-
-After downloading Postman click on the following button to download our collection:
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/024261330e9ef06d3789)
-
-You can also view the documentation online in [here](https://documenter.getpostman.com/view/2329721/T1DmCdd4?version=latest)
-
-### Generate code using Postman
-
-Postman allows for easy code generation to use with your favorite language.
-
-After downloading and using our Postman collection follow the GIF below to generate the code for your used language:
-
-![Generate Code-POSTMAN](https://cdn.greeninvoice.co.il/files/ugc/8/c/7/8c7ea6c7af9046e2987ec70ab6e54dcd.gif)
-
-
-### <a name="future">Toolset Future</a>
-
-#### General Idea
-
-The idea is to open an SDK for programmers and let anyone create a tool based on pre-defined core & core values, performance & scalability.
-
-The API objects are supposed to be "short-lived" objects, that usually doesn't require a database, only a function of a "do" action.
-
-Having a core & core values, with a set of superrior tooling will potentially allow programmers that use the SDK to create a new tool within a couple of days (even a day) and not weeks.
-
-#### What Does the Core SDK Gives a Programmer
-
-- Logging & Exception Handling
-- Background Work Handling (such as webhooks)
-- API Key Based Authentication
-- Core Services (such as Storage, HTTP Client, Image Utilities)
-- Validations
-- Error Handling
-- Hassle-free AWS Resource Integrations - DynamoDB, S3
-- Operations Audit Log
-- Background Job Processing
-- Request, Response & Exception - Log & Handling
-- Testing Framework
-- Hassle-free Zapier Integration
-
-##### Future:
-- Cron Job Processing
-
-#### Some Future Ideas for Tools
+#### <a name="future">Some Future Ideas for Tools</a>
 
 - Images
   - Get Image Info (File Type, Width, Height, Size, etc..)
