@@ -1,6 +1,6 @@
 ---
 title: SDK
-layout: template
+layout: jekyll-theme-slate
 filename: sdk.md
 --- 
 
