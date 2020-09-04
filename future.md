@@ -11,6 +11,7 @@ filename: future.md
   - Image Compression
   - Image Conversion
   - Analyze Colors
+  - Get Random Image
 - Websites
   - Website Thumbnail Generation
   - Status (Is Down For Me?) [Popular]
@@ -36,6 +37,7 @@ filename: future.md
   - Get Cities
 - Phones
   - Parse Phone Number
+  - Phone Validator
 - UserAgent
   - Parse UserAgent
 - Languages
@@ -49,7 +51,8 @@ filename: future.md
   - Path Find
 - SMSs?
   - Send SMS
-- Emails?
+- Emails
+  - Validate Email
   - Send Transactional Email
 - Validations
   - Validate Multiple
