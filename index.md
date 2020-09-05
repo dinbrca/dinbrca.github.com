@@ -19,7 +19,7 @@ The current toolset contains only:
 - Images
   - Image Resizing
 
-and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature), Check out what the future holds [`here`](#future)..
+and lots more to come.. (this is your time to shine and tell us through support what's your needs and request a feature), Check out what the future holds [`here`](/future)..
 
 #### Image Resizing
 
