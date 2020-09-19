@@ -6,9 +6,7 @@ filename: future.md
 
 # Suggest a Feature / Vote on Next Tool
 
-You can suggest a feature or vote for the next one in our public roadmap voting board:
-
-https://trello.com/b/I1Jd4gJ0/mallabe-public-roadmap-feature-voting
+Check out our [**Public Roadmap Voting Board**](https://trello.com/b/I1Jd4gJ0/mallabe-public-roadmap-feature-voting) to suggest a feature or vote for the next one.
 
 # Some Future Ideas for Tools
 
