@@ -4,6 +4,12 @@ theme: jekyll-theme-slate
 filename: future.md
 --- 
 
+# Suggest a Feature / Vote on Next Tool
+
+You can suggest a feature or vote for the next one in our public roadmap voting board:
+
+https://trello.com/b/I1Jd4gJ0/mallabe-public-roadmap-feature-voting
+
 # Some Future Ideas for Tools
 
 - Images
