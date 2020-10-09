@@ -7,7 +7,7 @@ Each Zap has one app as the **Trigger**, where your information comes from and w
 ## Getting Started with Zapier
 Sign up for a free [Zapier](https://zapier.com/apps/mallabee/integrations) account, from there you can jump right in. To help you hit the ground running, here are some popular pre-made Zaps.
 
-<script src="https://zapier.com/zapbook/embed/widget.js?services=mallabe&container=true&limit=5,"></script>
+<script src="https://zapier.com/zapbook/embed/widget.js?services=mallabee&container=true&limit=5,"></script>
 
 ## How do I connect mallabe to Zapier?
 
@@ -21,4 +21,4 @@ Need inspiration? See everything that's possible with [mallabe and Zapier](https
 If you have any additional questions, you can reach out to contact@zapier.com.
 
 ## Popular use cases
-<script src="https://zapier.com/apps/embed/widget.js?services=mallabe"></script>
+<script src="https://zapier.com/apps/embed/widget.js?services=mallabee"></script>
